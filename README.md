@@ -8,3 +8,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp by
 - Day 4: [Bank Roulette](Day_4/bankerRoulette.py) | [Rock-Paper-Scissors](Day_4/RockPaperScissors.py) | [Treasure Map](Day_4/treasureMap.py)
 - Day 5: [Fizz Buzz](Day_5/fizzbuzz.py) | [Password Generator](Day_5/passwordGenerator.py)
 - Day 6: Maze and Hurdle races at Reeborg's World
+- Day 7: [Hangman Game](Day_7/Step5_hangman.py) 

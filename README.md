@@ -10,3 +10,5 @@ This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp by
 - Day 6: Maze and Hurdle races at Reeborg's World
 - Day 7: [Hangman Game](Day_7/Step5_hangman.py) 
 - Day 8: [Caesar Cipher](Day_8/caesarCipher_final.py) | [Painting Area Calculator](Day_8/paintingarea.py)
+- Day 9: [Grading Program](Day_9/gradingProgram.py)
+- Day 10: [Calculator](Day_10/calculator.py)

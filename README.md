@@ -13,4 +13,6 @@ This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp by
 - Day 9: [Grading Program](Day_9/gradingProgram.py)
 - Day 10: [Calculator](Day_10/calculator.py)
 - Day 11: [Black Jack Game](Day_11/blackjack.py)
-- Day 12: [Number Guessing Game](Day_12/numberGuessing.py) 
+- Day 12: [Number Guessing Game](Day_12/numberGuessing.py)
+- Day 13: Debugging practices
+- Day 14: [Higher vs Lower](Day_14/higherlower.py) 

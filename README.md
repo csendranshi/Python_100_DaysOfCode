@@ -16,3 +16,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp.
 - Day 12: [Number Guessing Game](Day_12/numberGuessing.py)
 - Day 13: Debugging practices
 - Day 14: [Higher vs Lower](Day_14/higherlower.py) 
+- Day 15: [Coffee Machine](Day_15/CoffeeMachine.py)

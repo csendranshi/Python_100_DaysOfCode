@@ -19,3 +19,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp.
 - Day 15: [Coffee Machine](Day_15/CoffeeMachine.py)
 - Day 16: [Coffee Machine using OOP](Day_16/main.py)
 - Day 17: [Trivia App](Day_17/main.py)
+- Day 18: [Hirst Painting](Day_18/hirst_painting.py) | [Random Walk](Day_18/random_walk.py) | [Spirograph](Day_18/spirograph.py) | [Extracting colors from an image](Day_18/color_extraction.py) | [Shapes](Day_18/shapes.py)

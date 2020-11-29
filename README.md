@@ -18,3 +18,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp.
 - Day 14: [Higher vs Lower](Day_14/higherlower.py) 
 - Day 15: [Coffee Machine](Day_15/CoffeeMachine.py)
 - Day 16: [Coffee Machine using OOP](Day_16/main.py)
+- Day 17: [Trivia App](Day_17/main.py)

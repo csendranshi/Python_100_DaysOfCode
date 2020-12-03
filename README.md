@@ -1,6 +1,6 @@
 # Python_100_DaysOfCode
 
-This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp.
+This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 
 - Day 1: [ Band Name Generator](Day_1/bandNameGenerator.py)
 - Day 2: [BMI Calculator](Day_2/bmiCalculator.py) | [Life in Weeks](Day_2/lifeInWeeks.py) | [Tip Calculator](Day_2/tipCalculator.py)
@@ -22,3 +22,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code Bootcamp.
 - Day 18: [Hirst Painting](Day_18/hirst_painting.py) | [Random Walk](Day_18/random_walk.py) | [Spirograph](Day_18/spirograph.py) | [Extracting colors from an image](Day_18/color_extraction.py) | [Shapes](Day_18/shapes.py)
 - Day 19: [Turtle Navigation](Day_19/event_listeners.py) | [Turtle Race](Day_19/turtle_race.py)
 - Day 20 + 21: [Snake Game](Day_20/main.py) 
+- Day 22: [Sending Emails with EmailJS](Day_22/email.html) | [Superstore Dashboard with PowerBI](Day_22/dashboard.PNG)

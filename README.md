@@ -22,5 +22,5 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 18: [Hirst Painting](Day_18/hirst_painting.py) | [Random Walk](Day_18/random_walk.py) | [Spirograph](Day_18/spirograph.py) | [Extracting colors from an image](Day_18/color_extraction.py) | [Shapes](Day_18/shapes.py)
 - Day 19: [Turtle Navigation](Day_19/event_listeners.py) | [Turtle Race](Day_19/turtle_race.py)
 - Day 20 + 21: [Snake Game](Day_20/main.py) 
-- Day 22: [Sending Emails with EmailJS](Day_22/email.html) | [Superstore Dashboard with PowerBI](Day_22/dashboard.PNG) | [Ping pong](Day_22/pingpong/main.py)
-- Day 23: []() | 
+- Day 22: [Sending Emails with EmailJS](Day_22/email.html) | [Superstore Dashboard with PowerBI](Day_22/dashboard.PNG)
+- Day 23: [Ping Pong Game](Day_23/pingpong/main.py)

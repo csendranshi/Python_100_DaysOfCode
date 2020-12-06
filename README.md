@@ -24,3 +24,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 20 + 21: [Snake Game](Day_20/main.py) 
 - Day 22: [Sending Emails with EmailJS](Day_22/email.html) | [Superstore Dashboard with PowerBI](Day_22/dashboard.PNG)
 - Day 23: [Ping Pong Game](Day_23/pingpong/main.py)
+- Day 24: Improvised the [Snake Game](Day_20/main.py) | [Generating Invitations](Day_24/letters/main.py)

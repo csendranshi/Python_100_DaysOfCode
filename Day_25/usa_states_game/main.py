@@ -27,10 +27,10 @@ while score < 50:
         correct_answers.append(answer_state)
 
     if answer_state == "Exit":
-        remaining_states = []
-        for state in states:
-            if state not in correct_answers:
-                remaining_states.append(state)
+        remaining_states = [state for state in states if state not in correct_answers]
+        # for state in states:
+        #     if state not in correct_answers:
+        #         remaining_states.append(state)
         print(remaining_states)
         new_data = pd.DataFrame(remaining_states)
         new_data.to_csv("states_to_learn.csv")

@@ -27,3 +27,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 24: Improvised the [Snake Game](Day_20/main.py) | [Generating Invitations](Day_24/letters/main.py)
 - Day 25: Analysing [Squirrels Dataset](Day_25/squirrels/main.py) using Pandas | [USA states guessing game](Day_25/usa_states_game/main.py) with GUI | Operations on [Weather Data](Day_25/main.py)
 - Day 26: [NATO Alphabets](Day_26/NATO_alphabets/main.py) | [Data Overlap Checker](Day_26/DataOverlap/main.py)
+- Day 27: [Miles to Kilometer Converter](Day_27/converter.py)

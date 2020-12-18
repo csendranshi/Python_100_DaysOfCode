@@ -31,4 +31,5 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 28: [Pomodoro App](Day_28/pomodoro/main.py)
 - Day 29: [Password Manager](Day_29/main.py)
 - Day 30: ⭐ Error and Exception handling | Revamped [Password Manager](Day_29/main.py) by adding search button and exception handling | Tweaked [NATO Alphabets](Day_26/NATO_alphabets/main.py)
-- Day 31: [Student Registration System](Day_31/student_registration.py)
+- Day 31: [Student Registration System](Day_31/student_registration.py) | [Flash Cards](Day_31/flash_cards/main.py)
+- Day 32: []() | 

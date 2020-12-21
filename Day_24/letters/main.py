@@ -12,7 +12,7 @@ for name in Names:
     print(name.strip(), type(name.strip()))
     draft[0] = draft[0].replace(draft[0][5:-1],name.strip())
     print(draft[0])
-    s=""
+    s = ""
     send_file.write(s.join(draft))
 
 # Save the letters in the folder "ReadyToSend".

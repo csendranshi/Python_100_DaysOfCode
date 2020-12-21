@@ -32,4 +32,7 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 29: [Password Manager](Day_29/main.py)
 - Day 30: ⭐ Error and Exception handling | Revamped [Password Manager](Day_29/main.py) by adding search button and exception handling | Tweaked [NATO Alphabets](Day_26/NATO_alphabets/main.py)
 - Day 31: [Student Registration System](Day_31/student_registration.py) | [Flash Cards](Day_31/flash_cards/main.py)
-- Day 32: [ToDo List CLI](Day_32/todo_cli.py) | 
+- Day 32: [ToDo List CLI](Day_32/todo_cli.py) | [Emails :](Day_32/Email_automation)
+    - [Birthday](Day_32/Email_automation/birthday_emails/main.py)
+    - [Motivational Quotes](Day_32/Email_automation/motivation_quotes/main.py)
+- Day 33: [Kanye API GUI](Day_33/kanye_quotes/main.py) | [Interantional Space Station locator API and email alert](Day_33/sun_api.py)

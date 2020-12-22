@@ -36,4 +36,5 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
     - [Birthday](Day_32/Email_automation/birthday_emails/main.py)
     - [Motivational Quotes](Day_32/Email_automation/motivation_quotes/main.py)
 - Day 33: [Kanye API GUI](Day_33/kanye_quotes/main.py) | [Interantional Space Station locator API and email alert](Day_33/sun_api.py)
-- Day 34: [Quiz App using trivia API](Day_34/main.py) |
+- Day 34: [Quiz App using trivia API](Day_34/main.py) 
+- Day 35: [Openweather API Rain alert](Day_35/weather_api.py)

@@ -39,3 +39,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 34: [Quiz App using trivia API](Day_34/main.py) 
 - Day 35: [Openweather API Rain alert](Day_35/weather_api.py)
 - Day 36: [Stock Variation alert System](Day_36/main.py)
+- Day 37: [Painting - Habit Tracker](Day_37/main.py)

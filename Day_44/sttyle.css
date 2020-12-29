@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+h1 {
+   margin-top: 0;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+}
+.middle-container{
+    background-color: red;
+
+}

@@ -40,3 +40,7 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 35: [Openweather API Rain alert](Day_35/weather_api.py)
 - Day 36: [Stock Variation alert System](Day_36/main.py)
 - Day 37: [Painting - Habit Tracker](Day_37/main.py)
+- Day 38: [Workout tracker](Day_38/main.py)
+- Day 39-43: AI concepts
+- Day 44: [HTML Concepts](Day_44) 
+- Day 45: [Top 100 movie scrapper](Day_45/top100_movies/main.py)

@@ -44,3 +44,5 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 39-43: AI concepts
 - Day 44: [HTML Concepts](Day_44) 
 - Day 45: [Top 100 movie scrapper](Day_45/top100_movies/main.py)
+- Day 46: [Billboard hot 100 Spotify playlist generator](Day_46/main.py)
+- Day 47: [Amazon price tracker](Day_47/amazon_price_tracker.py)

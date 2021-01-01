@@ -46,3 +46,5 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 45: [Top 100 movie scrapper](Day_45/top100_movies/main.py)
 - Day 46: [Billboard hot 100 Spotify playlist generator](Day_46/main.py)
 - Day 47: [Amazon price tracker](Day_47/amazon_price_tracker.py)
+- Day 48: [Game Bot using Selenium](Day_48/cookie_clicker.py)
+- Day 49: []()

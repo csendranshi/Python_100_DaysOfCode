@@ -56,4 +56,5 @@ while 1:
     if time.time() > ten_sec:
         cookie_per_sec = driver.find_element_by_id("cps").text
         print(cookie_per_sec)
+
         break

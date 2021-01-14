@@ -48,3 +48,5 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 47: [Amazon price tracker](Day_47/amazon_price_tracker.py)
 - Day 48: [Game Bot using Selenium](Day_48/cookie_clicker.py)
 - Day 49: [Linkedin Job application Bot](Day_49/job_apply.py)
+- Day 50: revisited DS n Algo, Cryptography techniques and DBMS concepts
+- Day 51: [Twitter Bot](Day_51/twitter_bot_1.py)

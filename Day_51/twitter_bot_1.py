@@ -6,7 +6,7 @@ DOWN_THRESHOLD = 150
 UP_THRESHOLD = 10
 CHROME_DRIVER_PATH = "D:\chromedriver.exe"
 TWITTER_EMAIL = os.environ["twitter_email"]
-TWITTER_PASS = os.environ["twitter_pass"]
+TWITTER_PASS = os.environ["twitter_password"]
 URL ="https://www.speedtest.net/"
 
 class internetSpeedTwitterBot:
@@ -43,9 +43,10 @@ class internetSpeedTwitterBot:
         time.sleep(5)
         tweet_compose = self.driver.find_element_by_xpath(
             '//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[1]/div/div/div/div/div/div/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div')
-
-        tweet = f"Day 51 #100DaysOfCode made a tweet bot using #selenium and #Pyhthon which tweeted this too!\n\n" \
-                f"#WomenWhoCcode #DEVCommunity #DEVcommunityIN #100daysofpython #CodeNewbie #Developer #GirlsWhoCode #100daysofcodechallenge #womenintech #automation "
+        # f"Day 51 #100DaysOfCode made a tweet bot using #selenium and #Pyhthon which tweeted this too!\n\n" \
+        tweet = f"Day 52 ##100DaysOfCode Made #Instagram follower Bot using #Selenium and #Python\n" \
+                f"It clearly increases reach for my photography acc!\n\n" \
+                f"#WomenWhoCcode #DEVCommunity #DEVcommunityIN #100daysofpython #CodeNewbie #Developer #Photography #GirlsWhoCode #womenintech #automation "
         tweet_compose.send_keys(tweet)
         time.sleep(3)
 

@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 CHROME_DRIVER_PATH = "D:\chromedriver.exe"
-SIMILAR_ACC = "scottwitt"
+SIMILAR_ACC = "blackandwhite_art"
 USERNAME = os.environ['username']
 PASS = os.environ['password']
 URL = "https://www.instagram.com/accounts/login/"

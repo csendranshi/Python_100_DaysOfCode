@@ -55,3 +55,4 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 54: [Flask Basics](Day_54/main_flask.py)
 - Day 55: Analysis of Counties, Babynames, Gapminder and Weather Daily Datasets in R | [Analysis of Dr. Semmelweis and Discovery of HandWashing](Day_55/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 - Day 56: Analysis of Cars, Homelessness, Gapminder, Walmart, Dogs datasets using Python
+- Day 57: Analysis of Air temperatures around world, Dogs, Avocado, Movies, Musical, Chicago Dataportal, Climate change datasets in Python

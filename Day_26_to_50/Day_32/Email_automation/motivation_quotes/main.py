@@ -10,7 +10,7 @@ now_week_day = now.weekday()
 print(now_week_day)
 if now_week_day == 0:
 
-    with open('quotes.txt',encoding='utf8') as file:
+    with open('quotes.txt', encoding='utf8') as file:
         data = file.readlines()
         quote = random.choice(data)
     print(quote)

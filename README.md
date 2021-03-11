@@ -56,7 +56,7 @@ This repo houses the codes I wrote as a part of the 100 Days of Code challenge.
 - Day 55: Analysis of Counties, Babynames, Gapminder and Weather Daily Datasets in R | [Analysis of Dr. Semmelweis and Discovery of HandWashing](Day_55/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 - Day 56: Analysis of Cars, Homelessness, Gapminder, Walmart, Dogs datasets using Python
 - Day 57: Analysis of Air temperatures around world, Dogs, Avocado, Movies, Musical, Chicago Data portal, Climate change datasets in Python
-- Day 58-71: Data Analysis Concepts on DataCamp
+- Day 58-71:⭐ Data Analysis Concepts on DataCamp
 - Day 72: Flask basics
 - Day 73: Analyzed [breathalyzer](Day_73/notebook.ipynb) test data from the State of Iowa
 - Day 74-76: String manipulation in R

@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 CHROME_DRIVER_PATH = "D:\chromedriver.exe"
-SIMILAR_ACC = "blackandwhite_art"
+SIMILAR_ACC = "burnmagazine"
 USERNAME = os.environ['username']
 PASS = os.environ['password']
 URL = "https://www.instagram.com/accounts/login/"
@@ -49,7 +49,8 @@ class InstaFollower:
         followers.click()
 
         time.sleep(3)
-        modal = self.driver.find_element_by_xpath('/html/body/div[5]/div/div/div[2]')
+        modal = self.driver.find_element_by_xpath('/html/body/div[4]/div/div/div[2]')
+        # / html / body / div[4] / div / div / div[2]
         # / html / body / div[5] / div / div / div[2]
         for i in range(5):
             # In this case we're executing some Javascript, that's what the execute_script() method does.
